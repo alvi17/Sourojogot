@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#fbcdca"
+    android:id="@+id/second_frame"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_gravity="left|top" >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:layout_gravity="left|top">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="সূর্য"
+            android:id="@+id/textView2"
+            android:textColor="#000"
+            android:layout_gravity="center_horizontal|top" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সূর্য সৌরজগতের কেন্দ্রের খুব কাছে অবস্থিত তারাটির নাম। প্রায় আদর্শ গোলক আকৃতির এই তারা প্রধানত প্লাজমা তথা আয়নিত পদার্থ দিয়ে গঠিত যার মধ্যে জড়িয়ে আছে চৌম্বক ক্ষেত্র। এর ব্যাস প্রায় ১৩ লক্ষ ৯২ হাজার কিলোমিটার যা পৃথিবীর ব্যাসের ১০৯ গুণ, ভর প্রায় ২×১০৩০ কিলোগ্রাম তথা পৃথিবীর ভরের ৩ লক্ষ ৩০ হাজার গুণ। এই ভর সৌরজগতের মোট ভরের শতকরা ৯৯.৮৬ ভাগ। সূর্যের প্রধান গাঠনিক উপাদান হাইড্রোজেন, আসলে মোট ভরের তিন চতুর্থাংশই হাইড্রোজেন। হাইড্রোজেনের পরেই সবচেয়ে প্রাচুর্য্যময় মৌল হিলিয়াম। হিলিয়ামের চেয়ে ভারী মৌল সূর্যের মাত্র ১.৬৯% ভরের জন্য দায়ী, তারপরও এদের সম্মিলিত ভর পৃথিবীর ভরের ৫,৬২৮ গুণ। এই ভারী মৌলগুলোর মধ্যে রয়েছে অক্সিজেন, কার্বন, নিয়ন, লোহা ইত্যাদি।"
+            android:textColor="#000"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000"
+            android:layout_gravity="center_horizontal"
+            android:text="ভৌত বৈশিষ্ট্যসমূহ"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center_horizontal"
+            android:text="\tপৃথিবী থেকে গড় দূরত্ব 	১৪৯.৬×১০৬ কিমি (৯২.৯৫×১০৬ মা)"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+
+            android:text="\tগড় ব্যাস \t১.৩৯২×১০৬ কিমি (১০৯ পৃথিবী)\n
+        পরিধি \t৪.৩৭৩×১০৬ কিমি\n
+        কমলাকৃতি \t৯×১০−৬\n
+        পৃষ্ঠের ক্ষেত্রফল \t৬.০৯×১০১৮ মি² (১১,৯০০ পৃথিবী)\n
+        আয়তন \t১.৪১×১০২৭ মি³ (১,৩০০,০০০ পৃথিবী)\n
+        ভর \t১.৯৮৮ ৪৩৫×১০৩০ কেজি (৩৩২,৯৪৬ পৃথিবী)\n
+        ঘনত্ব \t১,৪০৮ কেজি/মি³\n
+        পৃষ্ঠের অভিকর্ষ \t২৭৩.৯৫ মি সে-২ (২৭.৯ জি)\n
+        পৃষ্ঠ থেকে মুক্তি বেগ \t৬১৭.৫৪ কিমি/সে (৫৫ পৃথিবী)\n
+        পৃষ্ঠের তাপমাত্রা 	৫৭৮৫ কে
+        \n"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000"
+        android:layout_gravity="center_horizontal"
+        android:text="আলোক মণ্ডলীয় গঠন (ভর অনুসারে)"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center_horizontal"
+            android:text="\tহাইড্রোজেন 	৭৩.৪৬ %\n
+
+        হিলিয়াম \t২৪.৮৫ %\n
+        অক্সিজেন \t০.৭৭ %\n
+        কার্বন \t০.২৯%\n
+        লোহা \t০.১৬ %\n
+        নিয়ন \t০.১২ %\n
+        নাইট্রোজেন \t০.০৯ %\n
+        সিলিকন \t০.০৭ %\n
+        ম্যাগনেসিয়াম \t০.০৫ %\n
+        সালফার 	\t০.০৪ %\n"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="সূর্যের আলোর কিছু চমৎকার জীববৈজ্ঞানিক ধর্মও রয়েছে। সৌর আলোর লুমেন ও ওয়াটের মধ্যে যে অনুপাত তা ভাল মানের প্রতিপ্রভ আলোর সাথে তুলনীয়। এর মাধ্যমে বোঝা যায় সূর্য যে আলো দেয় তা তার উত্তপ্ত করার ক্ষমতার সাথে সামঞ্জস্যপূর্ণ এবং প্রদত্ত এই আলোর পরিমাণ বিপুল। এ থেকেই গ্রীষ্মকালে গৃহাভ্যন্তরের আলোকসজ্জার জন্য সূর্যের আলোর কার্যকারিতা প্রমাণিত হয়। কারণ এটি যত না উত্তপ্ত করে তার চেয়ে বেশি আলোকিত করে, আর গ্রীষ্মকালে উত্তাপ কমানো প্রয়োজন। অবশ্য সূর্যের আলোও কিছু উত্তাপ ছড়ায়। কিন্তু বৈদ্যুতিক বাতি একদিকে বেশি উত্তাপ তো ছড়ায়ই, আবার বিদ্যুৎও ব্যবহার করে। সূর্যের অতিবেগুনী রশ্মির কিছু প্রতিষেধক গুণ রয়েছে যা বিভিন্ন যন্ত্রপাতি জীবাণুমুক্তকরণে কাজে লাগে। সূর্যের আলোতে ভিটামিন ডি তৈরি করে যা মানব শরীরের জন্য উপকারী।\n\n"/>
+    </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

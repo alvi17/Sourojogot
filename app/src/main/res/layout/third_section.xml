@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#fbcdca"
+    android:id="@+id/third_frame"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="সৌরজগতের গ্রহসমূহ"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বুধ গ্রহ"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="বুধ গ্রহ সূর্যের সবচেয়ে কাছে (০.৪ এইউ (জ্যোতির্বৈজ্ঞানিক একক (astronomical unit - AU))) এবং এটি সৌরজগতের ক্ষুদ্রতম (০.৫৫ পার্থিব ভর) গ্রহ। এর কোন প্রাকৃতিক উপগ্রহ নেই। সংঘর্ষ খাদ ছাড়া এর একমাত্র জানা ভৌগোলিক ফিচার হচ্ছে লতিযুক্ত রিজ বা rupe। ইতিহাসের প্রথম দিকে যখন গ্রহের সংকোচন চলছিল তখন এগুলো সৃষ্টি হয়েছিল বলে ধারণা করা হয়। বুধের বায়ুমণ্ডল অতি নগণ্য যার প্রধান উপাদান সৌরবায়ুর প্রভাবে পৃষ্ঠ থেকে সজোরে উৎক্ষিপ্ত পরমাণু। এর তুলনামূলক বড় লৌহ কেন্দ্র এবং সরু ম্যান্ট্‌লের ব্যাখ্যা এখন পর্যন্ত পাওয়া যায়নি। বিভিন্ন অনুকল্পে বলা হয়েছে, একটি বড় সংঘর্ষের মাধ্যমে গ্রহটির বহিস্তর ছিন্নভিন্ন হয়ে মহাকাশে বিলীন হয়ে গেছে এবং নিকটবর্তী সূর্যের শক্তির প্রভাবে এর কোন বিবৃদ্ধিও ঘটেনি।\n"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="শুক্র গ্রহ"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:text="শুক্র গ্রহের আকার (০.৮১৫ পার্থিব ভর) প্রায় পৃথিবীর সমান এবং সূর্য থেকে এর দূরত্ব ০.৭ এইউ। পৃথিবীর মতই এই গ্রহের ম্যান্ট্‌ল সিলিকেট দ্বারা এবং কেন্দ্রভাগ লৌহ দ্বারা গঠিত। এর বায়ুমণ্ডল বেশ পুরু এবং এর ভেতরের অংশে বিভিন্ন ভূতাত্ত্বিক ক্রিয়া-প্রতিক্রিয়ার প্রমাণ পাওয়া গেছে। অবশ্য গ্রহটি পৃথিবীর তুলনায় অনেক শুষ্ক এবং এর বায়ুমণ্ডল আমাদের থেকে ৯০ গুণ বেশি ঘন। এরও কোন প্রাকৃতিক উপগ্রহ নেই। পৃষ্ঠতলের তাপমাত্রা ৪০০° সেলসিয়াস হওয়ায় এটি সৌরজগতের সবচেয়ে উত্তপ্ত। বায়ুমণ্ডলে প্রচুর পরিমাণে গ্রিনহাউজ গ্যাস থাকার কারণেই এর তাপমাত্রা এতো বেশি বলে ধারণা করা হচ্ছে। বর্তমানে সেখানে কোন ভূতাত্ত্বিক ক্রিয়া সংঘটিত হয় বলে সুস্পষ্ট প্রমাণ পাওয়া যায়নি। কিন্তু উল্লেখযোগ্য পুরুত্বের বায়ুমণ্ডল ধরে রাখার জন্য প্রয়োজনীয় চৌম্বক ক্ষেত্র নেই তার। এ থেকে বোঝা যায়, আগ্নেয়গিরির অগ্ন্যুৎপাতের মাধ্যমে এর বায়ুমণ্ডল নিয়মিত পূর্ণ হতে থাকে। এর ফলে চৌম্বক ক্ষেত্রের অপ্রতুলতা কাটিয়ে উঠা যায়।\n"
+            />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="পৃথিবী"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="পৃথিবী সৌরজগতের ভেতরের অংশের সবচেয়ে ঘন ও বড় গ্রহ। এটিই এ অঞ্চলের একমাত্র গ্রহ যাতে বর্তমানেও ভূতাত্ত্বিক ক্রিয়া-প্রতিক্রিয়া চলছে। এটা আমাদের জানা একমাত্র গ্রহ যাতে জীবনের অস্তিত্ব রয়েছে। এর তরল জলমণ্ডল সৌরজগতের ভেতরের অংশে অনন্য। এটিই একমাত্র গ্রহ যাতে গ্রহ টেকটোনিক পর্যবেক্ষন করা গেছে। পৃথিবীর বায়ুমণ্ডল অন্যান্য যেকোন গ্রহ থেকে অনেক ভিন্ন। এখানে শতকরা ২১ ভাগ অক্সিজেন থাকার কারণেই জীবনের বিকাশ ঘটা সম্ভব হয়েছে। এর একটি মাত্র প্রাকৃতিক উপগ্রহ আছে যার নাম চাঁদ বা 'মুন'। সৌরজগতের অন্য কোন পার্থিব গ্রহের এত বড় উপগ্রহ নেই।\n"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="মঙ্গল"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="মঙ্গল গ্রহ পৃথিবী ও শুক্রের চেয়ে ছোট (.১০৭ পার্থিব ভর)। এর একটি পাতলা বায়ুমণ্ডল আছে যা মূলত কার্বন ডাই অক্সাইড দিয়ে গঠিত। পৃষ্ঠতলে প্রচুর সংখ্যক আগ্নেয়গিরি (যেমন অলিম্পাস মন্‌স) ও ফাটল উপত্যকায় (যেমন ভ্যালিস মেরিনারিস) পরিপূর্ণ। এ থেকে বোঝা যায় এর ভূতাত্ত্বিক ক্রিয়া-প্রতিক্রিয়া খুব বেশি দিন আগে থেমে যায়নি। লৌহ সমৃদ্ধ মাটিতে মরিচা পড়ার কারণেই গ্রহটির রং লাল। মঙ্গলের দুটি ছোট ছোট উপগ্রহ আছে যাদের নাম ডিমোস এবং ফোবোস। ধারণা করা হয়, মঙ্গল অনেক আগে কোন গ্রহাণুকে নিজ মহাকর্ষের বন্ধনে বেঁধে ফেলেছিল এবং এভাবেই উপগ্রহগুলোর সৃষ্টি হয়।\n"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="বৃহস্পতি"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="বৃহস্পতি গ্রহের ভর পৃথিবীর ৩১৮ গুণ এবং সবগুলো বহিঃস্থ গ্রহের সম্মলিত ভরের তুলনায়ও সে ২.৫ গুণ ভারী। গ্রহটি মূলত হাইড্রোজেন ও হিলিয়াম দিয়ে গঠিত। তীব্র অভ্যন্তরীন তাপের কারণে এর বায়ুমণ্ডলে বেশ কিছু অর্ধ-স্থায়ী বৈশিষ্ট্যের সৃষ্টি হয় যার মধ্যে আছে মেঘের ব্যান্ড ও বিরাট লোহিত কলঙ্ক। আমাদের জানামতে এই গ্রহের ৬৩টি প্রাকৃতিক উপগ্রহ আছে। চারটি বড় বড় উপগ্রহ গ্যানিমেড, ক্যালিস্টো, ইয়ো এবং ইউরোপা অনেকটা পার্থিব গ্রহগুলোর মত। কারণ এই উপগ্রহগুলোতে অগ্ন্যুৎপাত ও অভ্যন্তরীন তাপ বৃদ্ধির মত ভূতাত্ত্বিক ক্রিয়া-প্রতিক্রিয়া ঘটে। সৌরজগতের বৃহত্তম উপগ্রহ গ্যানিমেডের আকার বুধ গ্রহ থেকেও বড়।\n"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="শনি"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="শনি গ্রহ দৃষ্টিনন্দন বলয়ের জন্য সবার কাছেই বেশ পরিচিত। বায়ুমণ্ডলের গঠনসহ বেশ কটি দিক দিয়ে এর সাথে বৃহস্পতির সাদৃশ্য আছে। অবশ্য শনি বৃহস্পতির মত অতো বড় না। এর ভর পৃথিবীর মাত্র ৯৫ গুণ। শনির ৬০টি জানা উপগ্রহের মধ্যে দুটিতে বর্তমানেও ভূতাত্ত্বিক ক্রিয়া-প্রতিক্রিয়া চলছে বলে ধারণা করা হয়। এছাড়া শনির আরও তিনটি উপগ্রহ আছে বলে সন্দেহ করা হচ্ছে। টাইটান ও এনসেল্যাডাস উপগ্রহ দুটিতে ভূতাত্ত্বিক ক্রিয়া-প্রতিক্রিয়া ঘটলেও সেগুলোর মূল গাঠনিক উপাদান আসলে বরফ। টাইটান বুধের চেয়ে বড় এবং এটি সৌরজগতের একমাত্র উপগ্রহ যাতে উল্লেখযোগ্য পুরুত্বের বায়ুমণ্ডল আছে।\n"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ইউরেনাস"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="ইউরেনাসের ভর পৃথিবীর ১৪ গুণ। কিন্তু বহিঃস্থ গ্রহগুলোর মধ্যে এটিই সবচেয়ে হালকা। এই গ্রহের নিজ অক্ষের চারদিকে পরিভ্রমণ অক্ষ সূর্যের চারদিকে আবর্তন অক্ষের প্রায় সমতলে অবস্থিত। এ কারণে সেখানে কোন ঋতু পরিবর্তন ঘটে না। এর অ্যাক্সিয়াল টিল্ট ও ভূকক্ষের মধ্যবর্তী কোণ ৯০°'র চেয়ে বেশি। অন্যান্য গ্যাস দানবের চেয়ে এর কেন্দ্রের তাপমাত্রা কম বলে সে মহাকাশে তুলনামূলকভাবে কম তাপ বিকিরণ করে। এর জানা উপগ্রহের সংখ্যা ২৭টি। এর মধ্যে বড় উপগ্রহগুলি হচ্ছে টাইটানিয়া, ওবেরন, আমব্রিয়েল, এরিয়েল ও মিরান্ডা।\n"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="নেপচুন"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal|top"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="নেপচুনের আকার ইউরেনাসের চেয়ে কম হলেও ভর তার থকে বেশি। ইউরেনাসের ভর পৃথিবীর ১৪ গুণ আর নেপচুনের ভর ১৭ গুণ। এ কারণে নেপচুনের ঘনত্ব তুলনামূলক বেশি। এটি তুলনামূলক বেশি তাপ বিকিরণ করে তবে এই বিকিরণের পরিমাণ বৃহস্পতি বা শনির থেকে কম। নেপচুনের জানা উপগ্রহের সংখ্যা ১৩। এর মধ্যে সবচেয়ে বড় ট্রাইটন ভূতাত্ত্বিকভাবে সক্রিয়। এই উপগ্রহে উষ্ণ প্রস্রবণ ও তরল নাইট্রোজেন আছে। ট্রাইটন একমাত্র বড় উপগ্রহ যার প্রতীপ কক্ষপথ আছে। নেপচুনের কক্ষপথে বেশ কিছু ক্ষুদ্র গ্রহ আছে যেগুলোকে নেপচুন ট্রোজান বলে। এই ট্রোজানগুলো মাতৃ গ্রহের সাথে ১:১ রেজোন্যান্সে আবর্তন করে।\n\n"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

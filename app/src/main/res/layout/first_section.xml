@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#fbcdca"
+    android:id="@+id/first_Fragment"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:layout_gravity="left|top">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="সৌরজগৎ"
+            android:textColor="#000"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="সৌরজগৎ (Solar System) বলতে সূর্য এবং এর সাথে মহাকর্ষীয়ভাবে আবদ্ধ সকল জ্যোতির্বৈজ্ঞানিক বস্তুকে বোঝায়। এর মধ্যে আছে: আটটি গ্রহ, তাদের ১৬২টি জানা প্রাকৃতিক উপগ্রহ, তিনটি বামন গ্রহ ও তাদের চারটি জানা প্রাকৃতিক উপগ্রহ এবং কোটি কোটি ক্ষুদ্র বস্তু।\n"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000"
+            android:text="গড়ন ও কাঠামো:"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+
+            android:text="সৌর জগতের প্রধান উপাদান হচ্ছে সূর্য যা একটি প্রধান ধারার জি২ শ্রেণীর তারা। সৌর জগতের সমগ্র মোট ভরের শতকরা ৯৯.৮৬ ভাগের জন্য দায়ী হল সূর্য এবং এটিই জগতের সবকিছুকে নিয়ন্ত্রণ করে থাকে। সূর্য বাদ দিলে সৌর জগতের বাকি যে ভর অবশিষ্ট থাকে তার শতকরা ৯০ ভাগের জন্য দায়ী হল বৃহস্পতি এবং শনি গ্রহ। এই গ্রহ দুটি সূর্যকে প্রদক্ষিণরত সর্ববৃহৎ বস্তু। বর্তমানে উওর্ট মেঘ সম্বন্ধে যা বলা হচ্ছে তা সত্যি প্রমাণিত হলে এটিও সৌর জগতের ভরের একটি অংশ গঠন করবে। সূর্যকে কেন্দ্র করে ঘূর্ণায়মান অধিকাংশ বস্তুই ভূ-কক্ষের নিকটে অবস্থিত। ভূ-কক্ষ একটি সরু রেখাপথ যা পৃথিবীর কক্ষের সাথে সমান্তরালে অবস্থিত। গ্রহগুলো ভূ-কক্ষের খুব নিকটে অবস্থিত যদিও ধূমকেতু ও অন্যান্য কাইপার বেষ্টনী বস্তু সমূহ এর সাথে বেশ বড় কোণ করে অবস্থান করে।\n
+
+সৌর জগতের ভিতর অবস্থিত গ্রহ এবং অন্যান্য অধিকাংশ বস্তু সূর্যের ঘূর্ণনের সাথে ঘড়ির কাঁটার বিপরীত দিকে ঘূর্ণায়মান থাকে। এই দিকটি বোঝা যায় সূর্যের উত্তর মেরুর উপর অবস্থিত একটি বিন্দুর সাপেক্ষে। তবে এর ব্যতিক্রমও রয়েছে, যেমন, হ্যালির ধূমকেতু। সূর্যের চারদিকে ঘূর্ণায়মান বস্তুসমূহ কেপলারের গ্রহীয় গতির সূত্র মেনে চলে। প্রতিটি বস্তু সূর্যকে উপবৃত্তের একটি ফোকাসে রেখে উপবৃত্তাকার কক্ষপথে আবর্তন করে। বস্তুটি সূর্যের যত নিকটে আসে তার গতিও তত বৃদ্ধি পায়। গ্রহসমূহের কক্ষপথ প্রায় বৃত্তাকার যদিও কিছুটা উপবৃত্তের আকৃতি বজায় থাকে। কিন্তু গ্রহাণু এবং কাইপার বেষ্টনী বস্তুসমূহের কক্ষপথের আকৃতি সম্পূর্ণ উপবৃত্তাকার।
+
+\nবৃহৎ দূরত্বের সাথে সঠিকভাবে খাপ খাওয়ানোর জন্য অনেকগুলো প্রস্তাবনায় বলা হয়েছে যে, কক্ষপথগুলো একটি আরেকটি থেকে সমদূরত্বে অবস্থিত। কিন্তু বর্তমান প্রমাণ অনুসারে বাস্তবতা বেশ ভিন্ন। একটি গ্রহ সূর্য থেকে যত দূরে অবস্থিত তার কক্ষপথ এর পূর্ববর্তী গ্রহের কক্ষপথ থেকে তত দূরে অবস্থিত। উদাহরণস্বরুপ: শুক্র এবং বুধ গ্রহের কক্ষপথের মধ্যবর্তী দূরত্ব ০.৩৩ এইউ( জ্যোতির্বৈজ্ঞানিক একক (astronomical unit - AU) ব্যবহার করেন। এক জ্যোতির্বৈজ্ঞানিক একক হচ্ছে সূর্য থেকে পৃথিবীর দূরত্ব যার মান প্রায় ১৪৯,৫৯৮,০০০ কিমি (৯৩,০০০,০০০ মাইল)।); কিন্তু শনি এবং বৃহস্পতি গ্রহের কক্ষপথের মধ্যবর্তী দূরত্ব ৪.৩ এইউ। আবার নেপচুন এবং ইউরেনাসের কক্ষপথের মধ্যবর্তী দূরত্ব ১০.৫ এইউ।\n\n"
+            />
+    </LinearLayout>
+    </ScrollView>
+</FrameLayout>
